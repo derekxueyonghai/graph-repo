@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T08:30:28.800Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wYZIADziw8HywWBy8UCR" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T08:50:35.226Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eZLEEgaX1BS89f381xYw" version="21.1.9" type="github">
   <diagram name="第 1 页" id="6-csJQoFlxi7DzPH3uKS">
-    <mxGraphModel dx="793" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="65" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jXhL7ogl-cudysrSiM6L-5" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;一个勇于创新科技引领的平台&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jXhL7ogl-cudysrSiM6L-6" value="以创造价值为核心" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="100" width="120" height="60" as="geometry" />
@@ -51,6 +51,24 @@
         </mxCell>
         <mxCell id="jXhL7ogl-cudysrSiM6L-17" value="注重社会责任和公益事业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXhL7ogl-cudysrSiM6L-18" value="兴办教育，投资超过170亿元兴建天狮学院" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXhL7ogl-cudysrSiM6L-19" value="以体为翼，翼为体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXhL7ogl-cudysrSiM6L-20" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(247, 247, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;天狮大数据中台驾驶舱是这一战略的重要组成部分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="730" width="124" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jXhL7ogl-cudysrSiM6L-21" value="业务营运数据实时监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXhL7ogl-cudysrSiM6L-22" value="供应链运输追踪24小时溯源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXhL7ogl-cudysrSiM6L-23" value="将全球教育培训实施落地，人力资源选用育留整合，财务共享全球盘点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
