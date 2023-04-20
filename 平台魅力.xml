@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T23:47:47.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VCIxT55dwsdhVD-GK97Z" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T05:00:13.946Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0X418sp5f1pn7SWc_fM_" version="21.2.1" type="github">
   <diagram name="第 1 页" id="6-csJQoFlxi7DzPH3uKS">
     <mxGraphModel dx="835" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,8 +70,11 @@
         <mxCell id="jXhL7ogl-cudysrSiM6L-23" value="将全球教育培训实施落地，人力资源选用育留整合，财务共享全球盘点" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gDYqRXS24pNmQmdG8yxO-3" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="190" width="120" height="80" as="geometry" />
+        <mxCell id="NBmcBJF_Elz5fE9ju18F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="280" as="sourcePoint" />
+            <mxPoint x="620" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
