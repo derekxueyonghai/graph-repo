@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T05:34:20.768Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AmgvaGJLw55PZ4aJas_w" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T08:08:00.453Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="A2jyIHZxTDfMuHXYQmCa" version="21.2.9" type="github">
   <diagram name="第 1 页" id="oJkNEsKcCTzBUB0KT7qA">
     <mxGraphModel dx="1781" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,8 +119,14 @@
         <mxCell id="7NfFQII5bkef86NlB36D-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NfFQII5bkef86NlB36D-29" target="7NfFQII5bkef86NlB36D-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7NfFQII5bkef86NlB36D-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NfFQII5bkef86NlB36D-29" target="7NfFQII5bkef86NlB36D-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NfFQII5bkef86NlB36D-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7NfFQII5bkef86NlB36D-29" target="7NfFQII5bkef86NlB36D-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7NfFQII5bkef86NlB36D-29" value="hugging face" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="100" height="40" as="geometry" />
+          <mxGeometry x="40" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7NfFQII5bkef86NlB36D-31" value="https://docs.aws.amazon.com/sagemaker/latest/dg/algorithms-choose.html" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="10" y="700" width="180" height="50" as="geometry" />
@@ -159,7 +165,10 @@
           <mxGeometry x="590" y="920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7NfFQII5bkef86NlB36D-51" value="sentiment analysis" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="520" width="100" height="40" as="geometry" />
+          <mxGeometry x="-150" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7NfFQII5bkef86NlB36D-53" value="youtube tutorial video" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="600" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
